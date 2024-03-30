@@ -8,6 +8,8 @@
  *Return: number of characters printed
  */
 
+
+
 int _printf(const char *format, ...)
 {
 	int i = 0, j = 0;
